@@ -7,4 +7,4 @@
 
 
 ## Badges
-![HackerrankBadges](\assets\images\HackerrankCompleteBadges.png "Hackerrank Badges")
+![HackerrankBadges](/assets/images/HackerrankCompleteBadges.png "Hackerrank Badges")
