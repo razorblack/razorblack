@@ -1,5 +1,5 @@
 <!-- Title -->
-# <img src="./assets/gif/Hi.gif" height=35px width=35px /> I'm **Avinash Maurya**   
+# <img src="./assets/gif/Hi.gif" height=35px width=35px /> I'm **[Avinash Maurya](https://linktr.ee/thisisaviii)**   
 
 <!-- Connect With Me Section -->
 <p align="left">
