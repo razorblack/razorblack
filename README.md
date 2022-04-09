@@ -1,26 +1,29 @@
+<!-- Banner Image -->
+# <img src="./docs/images/Banner.png" width="100%"/> 
+
 <!-- Title -->
-# <img src="./assets/gif/Hi.gif" height=35px width=35px /> I'm **[Avinash Maurya](https://linktr.ee/thisisaviii)**   
+# <img src="./docs/gif/Hi.gif" height=35px width=35px /> I'm **[Avinash Maurya](https://linktr.ee/thisisaviii)**   
 
 <!-- Connect With Me Section -->
 <p align="left">
     <!-- LinkedIn Link -->
 <a href="https://www.linkedin.com/in/thisisaviii/">
-<img height="30px" width="30px" src="./assets/icons/LinkedIn Icon.png"/></a>
+<img height="30px" width="30px" src="./docs/icons/LinkedIn Icon.png"/></a>
     <!-- Twitter Link -->
-<a href="https://twitter.com/thisisaviii" target="blank"><img src="./assets/icons/Twitter Icon.png" alt="thisisaviii" height="30" width="30" /></a>
+<a href="https://twitter.com/thisisaviii" target="blank"><img src="./docs/icons/Twitter Icon.png" alt="thisisaviii" height="30" width="30" /></a>
     <!-- Mail -->
-<a href="mailto:mauryaavinash1116@gmail.com"><img  height="30px" width="30px" src="./assets/icons/Gmail Icon.png" /></a>
+<a href="mailto:razorblack@duck.com"><img  height="30px" width="30px" src="./docs/icons/Gmail Icon.png" /></a>
 </p>
 
 
 <!-- About Me & Work Section -->
 <p>
 
-<img align="right" src="./assets/gif/Typing.gif" height="120px" width="200px" >
+<img align="right" src="./docs/gif/Typing.gif" height="120px" width="200px" >
 <ul>
     <li>🎯 Tech Enthusiast</li>
     <li>👨‍🎓 CSE Undergrad | Junior</li>
-    <li>🧑 Aka: Razorblack</li>
+    <li>🧑 Aka: Razorblack | Thisisaviii </li>
     <li>🌍 From: India</li>
     <li>😄 Pronouns: He/Him</li>
 </ul>
@@ -30,34 +33,30 @@
 
 ___
 
-<!-- Experience Section -->
-## **Experience**
-___
 
-<!-- Achievement Section -->
-## **Achievements**
-___
 
 <!-- Skills Section -->
-## **Skills**
+## **Skills** 🧑‍💻
 
-<h3 align="center">Languages and Tools</h3>
 
-<p align="center"> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+* <b>Programming Languages</b>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+
+
+* <b>Tools</b>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
 
 ___
 <!-- Extra AddOn Section -->
-
-## **GitHub Stats**
-</br>
-    <!-- Achievement Trophy -->
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=razorblack&row=2&column=7" alt="razorblack" /></a> </p>
+## **[GitHub Stats](./docs/markdown/GitHub-Stats.md)** 🏆
 
 <p align="center">
     <!-- Overall Github Stats -->
