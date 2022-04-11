@@ -19,7 +19,7 @@
 <!-- About Me & Work Section -->
 <p>
 
-<img align="right" src="./docs/gif/Typing.gif" height="120px" width="200px" >
+<img align="right" src="./docs/gif/CodeBanner.gif" height="170px" width="280px" >
 <ul>
     <li>🎯 Tech Enthusiast</li>
     <li>👨‍🎓 CSE Undergrad | Junior</li>
