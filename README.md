@@ -36,7 +36,7 @@ ___
 
 
 <!-- Skills Section -->
-## **Skills** 🧑‍💻
+## **[Skills](https://www.linkedin.com/in/thisisaviii/details/skills/)** 🧑‍💻
 
 
 
