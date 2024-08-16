@@ -22,10 +22,8 @@
 <img align="right" src="./docs/gif/CodeBanner.gif" height="170px" width="280px" >
 <ul>
     <li>🎯 Tech Enthusiast</li>
-    <li>👨‍🎓 CSE Undergrad | Junior</li>
+    <li>👨‍🎓 Software Engineer</li>
     <li>🧑 Aka: Razorblack | Thisisaviii </li>
-    <li>🌍 From: India</li>
-    <li>😄 Pronouns: He/Him</li>
 </ul>
 
 </p>
