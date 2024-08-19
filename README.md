@@ -17,55 +17,44 @@
 
 
 <!-- About Me & Work Section -->
-<p>
 
-<img align="right" src="./docs/gif/CodeBanner.gif" height="170px" width="280px" >
-<ul>
-    <li>🎯 Tech Enthusiast</li>
-    <li>👨‍🎓 Software Engineer</li>
-    <li>🧑 Aka: Razorblack | Thisisaviii </li>
-</ul>
-
-</p>
-</br>
+<div style="display: flex; justify-content: space-between">
+    <div>
+        <ul>
+            <li>🎯 Tech Enthusiast</li>
+            <li>👨‍🎓 Software Engineer</li>
+            <li>🧑 Aka: Razorblack | Thisisaviii </li>
+            <li>💡 Problem Solver </li>
+            <li>🚀 Lifelong Learner </li>
+        </ul>
+    </div>
+    <div>
+        <img src="./docs/gif/CodeBanner.gif" height="130px" width="200px">
+    </div>
+</div>
 
 ___
 
-
+👉 Passionate about exploring new technologies and building innovative solutions. I thrive on tackling complex problems and turning ideas into reality. Always eager to learn and share knowledge with the community. Currently diving into Full Stack Web Development, and excited to collaborate on new adventures!
+___
 
 <!-- Skills Section -->
 ## **[Skills](https://www.linkedin.com/in/thisisaviii/details/skills/)** 🧑‍💻
-
-
-
-
-* <b>Programming Languages</b>
-
-<p align="left">
+<marquee>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-
-* <b>Tools</b>
-
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+</marquee>
 
 
 ___
-<!-- Extra AddOn Section -->
 
-<!-- Link to Experience Markdown -->
-## <p align="center">🎖️<a href="./docs/markdown/Experience.md">My Experience and Achievements</a>🎖️</p>
-<p align="center"> <b>Click Here</b>👆</p>
 
-___
 
 ## **[GitHub Stats](./docs/markdown/GitHub-Stats.md)** 🏆
 
@@ -88,9 +77,4 @@ ___
 <a href="https://github.com/razorblack">
 <img src="https://komarev.com/ghpvc/?username=razorblack&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </a>
-    <!-- Twitter Follow Link -->
-<a href="https://twitter.com/thisisaviii" target="blank">
-<img src="https://img.shields.io/twitter/follow/thisisaviii?logo=twitter&style=for-the-badge" alt="Twitter Follow" height=20px/>
-</a> 
-
 </p>
