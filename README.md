@@ -18,8 +18,11 @@
 
 <!-- About Me & Work Section -->
 
-<div style="display: flex; justify-content: space-between">
-    <div>
+<div>
+    <div align="right">
+        <img src="./docs/gif/CodeBanner.gif" height="130px" width="200px">
+    </div>
+    <div align="left">
         <ul>
             <li>🎯 Tech Enthusiast</li>
             <li>👨‍🎓 Software Engineer</li>
@@ -27,9 +30,6 @@
             <li>💡 Problem Solver </li>
             <li>🚀 Lifelong Learner </li>
         </ul>
-    </div>
-    <div>
-        <img src="./docs/gif/CodeBanner.gif" height="130px" width="200px">
     </div>
 </div>
 
@@ -40,7 +40,7 @@ ___
 
 <!-- Skills Section -->
 ## **[Skills](https://www.linkedin.com/in/thisisaviii/details/skills/)** 🧑‍💻
-<marquee>
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -49,7 +49,7 @@ ___
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</marquee>
+</p>
 
 
 ___
