@@ -6,22 +6,25 @@
 
 <!-- Connect With Me Section -->
 <p align="left">
+    &nbsp;
     <!-- LinkedIn Link -->
 <a href="https://www.linkedin.com/in/thisisaviii/">
 <img height="30px" width="30px" src="./docs/icons/LinkedIn Icon.png"/></a>
+    &nbsp;
     <!-- Twitter Link -->
 <a href="https://twitter.com/thisisaviii" target="blank"><img src="./docs/icons/Twitter Icon.png" alt="thisisaviii" height="30" width="30" /></a>
+    &nbsp;
     <!-- Mail -->
 <a href="mailto:razorblack@duck.com"><img  height="30px" width="30px" src="./docs/icons/Gmail Icon.png" /></a>
+    &nbsp;
 </p>
 
 
 <!-- About Me & Work Section -->
 
 <div>
-    <div align="right">
-        <img src="./docs/gif/CodeBanner.gif" height="130px" width="200px">
-    </div>
+    <p>
+         <img src="./docs/gif/CodeBanner.gif" height="130px" width="200px" align="right" />
     <div align="left">
         <ul>
             <li>🎯 Tech Enthusiast</li>
@@ -31,6 +34,7 @@
             <li>🚀 Lifelong Learner </li>
         </ul>
     </div>
+    </p>
 </div>
 
 ___
