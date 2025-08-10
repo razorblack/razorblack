@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-# <img src="./docs/images/Banner.png" width="100%"/> 
+# <img src="./docs/images/LinkedInBanner.png" width="100%"/> 
 
 <!-- Title -->
 # <img src="./docs/gif/Hi.gif" height=35px width=35px /> I'm **[Avinash Maurya](https://razorblack.me)**   
