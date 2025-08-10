@@ -2,7 +2,7 @@
 # <img src="./docs/images/Banner.png" width="100%"/> 
 
 <!-- Title -->
-# <img src="./docs/gif/Hi.gif" height=35px width=35px /> I'm **[Avinash Maurya](https://linktr.ee/thisisaviii)**   
+# <img src="./docs/gif/Hi.gif" height=35px width=35px /> I'm **[Avinash Maurya](https://razorblack.me)**   
 
 <!-- Connect With Me Section -->
 <p align="left">
