@@ -2,7 +2,8 @@
 <!-- Primary Banner -->
 <!-- =============================== -->
 <picture>
-    <img src="./docs/images/Banner.png" alt="Banner – Avinash Maurya (Razorblack)" width="100%" />
+    <!-- Replace LinkedInBanner.png with your exported LinkedIn profile banner (recommended width ~1584px) -->
+    <img src="./docs/images/LinkedInBanner.png" alt="LinkedIn Banner – Avinash Maurya" width="100%" />
 </picture>
 
 <h1 align="center"><img src="./docs/gif/Hi.gif" height="32" width="32" alt="waving hand" /> Hey, I'm <strong><a href="https://razorblack.me" target="_blank">Avinash Maurya</a></strong></h1>
@@ -49,6 +50,23 @@
 | 🎯 Focus | 🚀 Strengths | 🧪 Exploring | 🤝 Open To |
 |---------|--------------|-------------|-----------|
 | Full Stack & Tooling | Problem Solving, Clean Code | Cloud / DevOps Enhancements | Collaboration, Open Source |
+
+---
+
+## Projects
+<p align="center" style="display:flex; gap:8px; flex-wrap:nowrap;">
+    <a href="https://github.com/razorblack/GourmetHub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=razorblack&repo=GourmetHub&theme=merko" width="275" height="150" alt="GourmetHub" />
+    </a>
+    <a href="https://github.com/razorblack/BookWise">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=razorblack&repo=BookWise&theme=merko" width="275" height="150" alt="BookWise" />
+    </a>
+    <a href="https://github.com/razorblack/java_programming">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=razorblack&repo=java_programming&theme=merko" width="275" height="150" alt="java_programming" />
+    </a>
+</p>
+
+> See more in [`Projects.md`](./docs/markdown/Projects.md)
 
 ---
 
@@ -113,6 +131,8 @@ Structured details live in [`docs/markdown/Experience.md`](./docs/markdown/Exper
     
 </p>
 </details>
+
+<p align="center"><a href="./docs/markdown/GitHub-Stats.md"><strong>View full extended metrics →</strong></a></p>
 
 
 
